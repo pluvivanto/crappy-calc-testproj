@@ -19,6 +19,6 @@ This is a simple calculator project made to practice frontend development using 
 - Built with Next.js App Router
 - Lightweight and easy to understand
 
-## ❓ Purpose of This Project
+## Purpose of This Project
 
 This project was created to explore frontend concepts, particularly Next.js. It is not intended for serious calculations but serves as a hands-on learning experience.
